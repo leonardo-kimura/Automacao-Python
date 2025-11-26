@@ -4,10 +4,6 @@ cadastro_log.csv
 precos.csv
 precos_iphone.csv
 
-# Arquivos de estudo (pessoal)
-ESTUDAR_PARA_CURRICULO.md
-GITHUB_GUIA.md
-
 # Credenciais
 *.env
 .env
